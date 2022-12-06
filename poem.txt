@@ -5,6 +5,7 @@ Pink
 Orenge
 Blue
 Green
+indigos
 Unicorn
 Yellow
 Red
