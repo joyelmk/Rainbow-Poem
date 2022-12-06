@@ -4,5 +4,6 @@ Purple
 Pink
 Orenge
 Blue
+Green
 Red
-This are the colours of rinbow
+This are the colors of rinbow
